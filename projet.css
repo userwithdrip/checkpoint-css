@@ -1,0 +1,30 @@
+h1 { text-align: center;}
+nav {
+    text-align: center;
+    padding: 20px; /* Adjust the padding as needed */
+  }
+  
+  nav a {
+    display: inline-block;
+    margin: 0 15px; /* Adjust the margin as needed */
+    text-decoration: none;
+    color: #1a72b5; /* Adjust the color as needed */
+  border-radius: 15px; background-color: lightblue;}
+body {
+    background-image: url('lysepaper.jfif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+  }
+  /* Styles normaux */
+ {
+    color: black; /* Couleur de texte normale */
+  }
+  
+  /* Styles au survol */
+  nav a:hover {
+    color: red; /* Couleur de texte au survol */
+  }
+  .foot {background-color: lightblue;}
+  
